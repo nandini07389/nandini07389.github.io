@@ -1,0 +1,16 @@
+.blog-post {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 10px;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.blog-post:hover {
+    transform: scale(1.05);
+    background-color: #f0f0f0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
